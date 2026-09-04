@@ -1,14 +1,1 @@
-# Python cache and virtual environments
-__pycache__/
-*.pyc
-*.py.class
-venv/
-*.env
-
-# Evaluation artifacts
-results/
-logs/
-
-# Dataset caches
-.cache/
-.huggingface/
+IyBQeXRob24gY2FjaGUgYW5kIHZpcnR1YWwgZW52aXJvbm1lbnRzCl9fcHljYWNoZV9fLwp+LnB5Ywp+LnB5Y2xhc3MKdmVudgovKi5lbnYKCiMgRXZhbHVhdGlvbiBhcnRpZmFjdHMKcmVzdWx0cy8KbG9ncy8KCiMgRGF0YXNldCBjYWNoZXMKLmNhY2hlLy4KaHVnZ2luZ2ZhY2UvCg==
